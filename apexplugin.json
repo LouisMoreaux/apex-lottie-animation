@@ -1,0 +1,36 @@
+{
+    "name": "Lottie Animation",
+    "version": "1.0",
+    "description": "Template component plug-in to easily embed Lottie animations in your Oracle APEX application",
+    "keywords": ["lottie", "animation"],
+    "homepage": "https://github.com/LouisMoreaux/apex-lottie-animation",
+    "bugs": {
+      "url": "https://github.com/LouisMoreaux/apex-lottie-animation/issues",
+      "email": "moreaux.louis@gmail.com"
+    },
+    "license": "MIT",
+    "commercial": "No",
+    "author": {
+      "name": "Louis Moreaux",
+      "email": "moreaux.louis@gmail.com",
+      "url": "https://lmoreaux.hashnode.dev/",
+      "twitter": "moreaux_louis",
+      "donationUrl": ""
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/LouisMoreaux/apex-lottie-animation.git"
+    },
+    "oracle": {
+      "versions": ["23.2.0", "21.1.0", "19.1.0"],
+      "apex": {
+        "versions": ["24.1.0"],
+        "plugin": {
+          "internalName": "APEX.LMOREAUX.LOTTIE_ANIM_WC",
+          "type": "template component",
+          "demo": "https://apex.oracle.com/pls/apex/r/louis/template-component/lottie-animation",
+          "previewImage": "https://github.com/LouisMoreaux/apex-audio-player/blob/main/assets/aapex-lottie-animation.gif?raw=true"
+        }
+      }
+    }
+  }

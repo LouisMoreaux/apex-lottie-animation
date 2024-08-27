@@ -1,0 +1,15 @@
+:root {
+    --dotlottie-wc-background-color: transparent;
+    --dotlottie-wc-width: 600px;
+}
+
+.dotlottie-wc-container {
+    display: block;
+    background-color: var(--dotlottie-wc-background-color);
+}
+
+dotlottie-wc {
+    width: var(--dotlottie-wc-width);
+    margin-left: auto;
+    margin-right: auto;
+}
