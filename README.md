@@ -1,6 +1,6 @@
 # apex-lottie-animation
 Template component plug-in to easily embed Lottie animations in your Oracle APEX application
-<img alt="Screen recording showing the Lottie Animation Template Component plug-in" src="https://github.com/LouisMoreaux/apex-img-comparison-slider/blob/main/assets/apex-lottie-animation.gif?raw=true" width="300" height="300"></img>
+<img alt="Screen recording showing the Lottie Animation Template Component plug-in" src="https://github.com/LouisMoreaux/apex-lottie-animation/blob/main/assets/apex-lottie-animation.gif?raw=true" width="300" height="300"></img>
 
 ## Installation
 Import the file located at plug-in/template_component_plugin_apex_lmoreaux_lottie_anim_wc.sql
